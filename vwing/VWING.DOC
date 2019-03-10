@@ -1,0 +1,1854 @@
+                    
+                    
+                    
+                    €€€‹            ‹€€€
+                     €€€‹          ‹€€€   
+                      €€€‹        ‹€€€    
+                       €€€‹      ‹€€€    
+                        €€€‹    ‹€€€    
+                         €€€‹  ‹€€€     
+                          €€€‹‹€€€       
+                   À   À À €€€€€€ …ª À …ÕÕª 
+                   ∫ À ∫ ∫  €€€€  ∫»ª∫ ∫ Ãª
+                   »Õ Õº     ﬂﬂ     »º »ÕÕº
+                         VERSION 1.95
+
+
+                        Documentary
+
+     Documents compiled by Kalle Ojala
+
+     Table of contents:
+
+     I.    Introduction
+     II.   Requirements
+     III.  Game Controls
+           i. Menus
+           ii. Bars
+           iii. Control Keys
+     IV.   Weaponry
+           i. Main Weapon
+           ii. Auxiliary Weapons
+     V.    Survival
+           i. Levels
+           ii. Criticals
+           iii. Gun-Turrets
+           iv. H-wings
+           v. Pilot
+     VI.   Options
+     VII.  Winning
+           i. Who's the winner?
+           ii. Hints
+           iii. Single Player Game
+     VIII. Troubleshooting
+     IX.   Why Register???
+     X.    Why Read Documents ;-)
+     XI.   Creators' Comments
+
+
+     What's New?
+
+     This section was created so that those of you that have already
+     read the documents can figure out the changes to this version  
+     without having to read all these 30+ pages, again.
+
+     New things in version 1.91:
+
+          -Two more levels added (Duh Cave, Sky City)
+          -Gun Turrets added
+          -Five more Auxiliary Weapons (see Weaponry)
+          -New graphics mode (320*200) option
+          -Some options moved to the function keys (see Controls sec-
+           tion) 
+          -You now can make six helicopters with a full hold (was
+           three)
+          -Wraithcannon does less damage (was a huge spoiler)
+          -Megabomb explosion changed a bit (bigger!).
+          -Smoke (missiles, both types, produce smoke). Also, if you
+           have an Engine Core critical, your MECU will create smoke
+           whenever you thrust forward (see Criticals)
+          -Pilot doesn't die in water (he/she can swim and dive;    
+           yipee!)
+          -New documents (some vital elements were left out from the
+           last ones: see Controls section for function keys and the
+           new heading; VII. Options)
+          -New effects like splashing!
+
+     New things in version 1.95:
+          -Sound effects (wohoo!)
+          -Additional pilot effects (rope use, digging: see Pilot and
+           Control Keys)
+          -Five more Auxiliary Weapons (see Weaponry)
+          -One new Critical Hit (see Criticals)
+          -Wide Screens option
+          -Playable one-player game
+          -H-wings 
+
+
+     I. Introduction
+     ---------------
+
+     Greetings, and congratulations, it seems you are about to read
+     the documents :-).
+
+     V-wing (The Game) is a game that has basically a simple idea
+     (even though some weapons can make this hard to believe), and
+     concentrates purely on action rather than strategy, roleplay or
+     something like that. You just get yourself in your V-wing (ex-
+     plained in the next chapter) and take off and shoot your
+     friend(s) until there is nothing that moves in space except you
+     (and maybe a few birds).
+
+     V-wing (The Ship) is the latest and greatest of all MECUs (Multi
+     Environmental Combat Unit). It is fast, tough and maneuverable,
+     and can move (like all MECUs) in space, air and water. Besides,
+     V-wing is the MECU which ended the Galactic War I (read the text
+     at the beginning of the game).
+
+
+     II. Requirements
+     ----------------
+
+        386+ (for good game play 486/33+)
+        VGA compatible video card.
+        2.0 meg Hard Disk, or any other space (HD disk etc.)
+        0.7 meg XMS memory
+        595 Kb  conventional memory
+
+
+     III. Game Controls
+     ------------------
+
+     i. Menus
+
+     In menus: arrow up and down, moves through menu options. Arrow
+     left and right, or ENTER changes current selection. Sometimes
+     numeric keys alter some option too (like player number). In the
+     WEAPONS and LEVELS menus, pressing 'r' will generate random
+     auxiliary weapons and levels, respectively. BACKSPACE or ESC
+     returns you to previous menu.
+
+     (In the game, there is no place from where you could not get out
+     by pressing the ESC key.)
+
+        To save the options, press 's' key.
+         -You can have up to nine sets of options saved. Option set
+          number one will be loaded automatically when you start the 
+          game.
+        To load the options, press 'l' key.
+        If you want to set the default options, press 'd' key.
+
+     ii. Bars
+
+     There are two bars under each players' screen. The green and
+     the white.
+
+     The green bar shows the general condition of your craft. When  
+     the bar is still green, it means you still have some shields 
+     left to protect you. When the bar changes to yellow, all of the
+     shields are gone, and the following hits start pounding at your
+     armor. When you sustain armor hits, there is a small (usually:
+     the chance can be altered from the MISCELLANEOUS menu) chance
+     that the hit penetrates the armor and damages one or more of the
+     internal systems of your V-wing (critical hits explained later).
+     When you have one or more critical hits, this bar is red.
+
+     The lower bar, the white one, shows the amount of stuff there is
+     left in your cargo hold. Using your auxiliary weapons system
+     most often uses some of this ... um ... duh ... stuff. Basically
+     it is the amount of ammo, mines, soldiers, or whatever you have
+     left for the use of your auxiliary weapon.
+
+     When you eject, both of the bars will drop to zero. That is,
+     they will both be all black. Now if the lower bar starts filling
+     with light blue, it means that your pilot has started using up
+     his in-suit air supply. If the blue line fills up the whole bar,
+     you have no more air and your lungs will explode (literally).
+
+     The lower bar may also start to fill if you are covered with 
+     napalm (see Weaponry). If it fills up, your pilot is fried to
+     crisp.
+
+     iii. Control Keys
+
+     Each player has five (5) buttons, or a joystick for controlling
+     his/her ship:
+                        Pl 1      Pl 2          Pl 3     Pl 4
+            Turn left:   A        Arrow lft      J        6
+           Turn Right:   D        Arrow rght     L        T
+               Thrust:   W        Arrow up       I        U
+          Main Weapon:   TAB      Rght Shft      B        F
+     Auxiliary Weapon:   S        Arrow Dwn      K        Y
+
+     (Note: If you are experiencing trouble in the form of the key-
+     board not responding, try changing the keys for players 1 and 3.
+     In some cases, their keys may cause trouble. Specifically, you
+     can test this by holding down both the thrust and auxiliary
+     weapon buttons. These have been know to jam the keyboard.)
+
+     These keys can be altered from the CONTROLS menu. There is an 
+     access to the joystick options too, and in three or four player
+     game the usage of at least one joystick is recommended.
+
+     In some situations it is necessary for even a good pilot to
+     eject and travel in the play area without a V-wing. Ejection may
+     take place when your ship is a wreckage (gray colored, and rolls
+     somewhat). Just push your auxiliary weapon button. A pilot
+     ejects from your ex-ship, and you are now in control of a small,
+     (but troublesome) pilot. Controlling him/her differs from the
+     controlling of a V-wing, even though the keys are still the 
+     same.
+
+     Following shows the controls of a pilot:
+
+        Keys:  TL=Turn Left, TR=Turn Right, THR=Thrust,
+               FIR=Fire Normal, AU=Auxiliary
+        Joyst: JL=Turn Left, JR=Turn Right, JU=Thrust, B1=Fire, B2=
+               Auxiliary, JD=Joystic Down.
+
+     When the pilot is on the ground:       Key:       Joystick:
+        Walk left............................TL           JL
+        Walk right...........................TR           JR
+        Jump left............................AU+TL        JD+JL
+        Jump right...........................AU+TR        JD+JR
+        Shoot (if target in range)...........FIR          B1
+        Shoot left(no target in range).......FIR+TL       B1+JL
+        Shoot right(no target in range)......FIR+TR       B1+JR
+        Throw rope up........................THR          JU
+        Throw rope up-left...................THR+TL       JU+JL
+        Throw rope up-right..................THR+TR       JU+JR
+        Dig..................................AU           B2
+
+     When the pilot is in the water:
+        Swim left............................TL           JL
+        Swim right...........................TR           JR
+        Dive up..............................THR          JU
+        Dive down............................AU           JD
+        Shoot (if target in range)...........FIR          B1
+        Shoot left (no target in range)......FIR+TL       B1+JL
+        Shoot right (no target in range).....FIR+TR       B1+JR
+        Throw rope up........................THR          JU
+        Throw rope up-left...................THR+TL       JU+JL
+        Throw rope up-right..................THR+TR       JU+JR
+
+     When the pilot is in the air:
+        Shoot (if target in range)...........FIR          B1
+        Shoot left (no target in range)......FIR+TL       B1+JL
+        Shoot right (no target in range).....FIR+TR       B1+JR
+        Throw rope up........................THR          JU
+        Throw rope up-left...................THR+TL       JU+JL
+        Throw rope up-right..................THR+TR       JU+JR
+        Open parachute.......................AU           JD
+
+     When the pilot is on parachute:
+        Glide left...........................TL           JL
+        Glide right..........................TR           JR
+        Shoot (if target in range)...........FIR          B1
+        Shoot left(no target in range).......FIR+TL       B1+JL
+        Shoot right(no target in range)......FIR+TR       B1+JR
+
+     When the rope is in air:
+        Draw the rope back...................AU           B2
+
+     When the pilot hangs on the rope:
+        Swing left...........................TL           JL
+        Swing right..........................TR           JR
+        Climb up.............................THR          JU
+        Climb down...........................AU           JD
+        Shoot (if target in range)...........FIR          B1
+        Shoot left(no target in range).......FIR+TL       B1+JL
+        Shoot right(no target in range)......FIR+TR       B1+JR
+        Release the rope.....................(TL/TR)+THR  B2
+
+     When the pilot on a V-wing:
+        Drop down on the rope................FIR+AU       B1+B2
+
+     Note: The pilot cannot shoot or use his/her rope UNDER water.
+           That is, he/she can still shoot or throw the rope as much
+           as he/she likes when on the surface.
+
+     There are certain in-flight controls that can be accessed
+     through the function keys. Here they are:
+
+        F1:  Eject player number one. This can be useful if you want
+             to leave your ship, before it is a wreckage. If your   
+             ship is not destroyed, it will just lie there, empty. It
+             can then be taken over by ANY pilot.
+        F2:  Same as above for player 2.
+        F3:  Same as above for player 3.
+        F4:  Same as above for player 4.
+        F5:  Changes the graphics mode (from 320*200 to 320*400 or
+             vice versa). May speed up the game.  
+        F6:  Turns the "radar" on/off. It will reveal the location of
+             other MECUs. Small colored lines originating from your
+             MECU will point towards the MECU of each respective    
+             color. The line disappears if you are close enough to
+             see the MECU in question.
+        F7:  Causes the bases to start/stop glowing. This will great-
+             ly assist in finding bases in a new or unfamiliar level.
+        F8:  Turns the cross-hair on/off (Note: The cross-hair points
+             to where your craft's nose is pointing. When aiming, you
+             still have to take speed into account).
+        F9:  Pause.
+        F10: Aborts the game. Useful when you, say forgot to change
+             one option, and remember it when playing the first level
+             of a total of eight (ESC only quits the current level).
+
+
+     IV. Weaponry
+     ------------
+
+     i. Main Weapon
+
+     The V-wing fighter is fitted with one liquid-cooled, fast-firing
+     high-powered automatic cannon. It fires a stream of bullets,
+     each equipped with a small explosive warhead. Upon impact, these
+     will create sizeable holes into the landscape, or inflict con-
+     siderable damage to other crafts' shields and armor.
+
+     ii. Auxiliary Weapons
+
+     In addition to the main weapon, a V-wing has room enough for one
+     additional weapons system (well, not necessarily a weapon...).
+     Various options are available. These are called auxiliary weap-
+     ons. A great many have been developed, most of them adding to
+     the destructive power of the V-wing. Being a small MECU, the V-
+     wing doesn't have all that much free space inside it. So, the
+     effectiveness of certain weapons is limited by the amount of
+     ammunition (or battery cells for energy weapons or whatever the
+     system uses) that can fit into the V-wing.
+
+     Following is a list of the most common and widely available
+     auxiliary weapons systems. They are not in any particular order,
+     so weapon number one is NOT the best and so on...
+
+     1. Grenade Launcher
+
+     This is a basic MECU weapon. In addition to them main weapon,
+     this MECU has a larger cannon-type weapon. The Grenade Launcher 
+     fires small shells, that have great destructive potential. The
+     muzzle velocity of these shells is even greater than that of the
+     main weapon's bullets'. The ammo storage in the V-wing can hold
+     16 shells for the Grenade Launcher.
+
+     The shells will explode when they impact. The explosion creates
+     a high pressure shock wave in the immediate area. It also cre-
+     ates extreme heat in the vicinity. The exploding shell also
+     creates some shrapnel that shower the ground around the explo-
+     sion. This makes the weapon hazardous for nearby troops. The
+     total effect creates a hole the size of a house, or severely
+     damages a MECU. The V-wing, for example, can only withstand a
+     few direct hits before turning into scrap metal.
+
+     2. Missile
+
+     The missile is a basically a big warhead fitted onto a propul-
+     sion system. It is much faster than the V-wing, and it's turning
+     rate is also superior. The missile is dropped from a MECU, and
+     after a moment it will start speeding towards the nearest tar-
+     get. It only tracks MECUs, and not infantry or helicopters. If
+     no targets are present (=no enemy MECUs around), it will start
+     speeding in the direction the MECU was facing when it dropped
+     the missile. It has enough fuel to run for hours on at a time.
+     The only problem is that it goes straight at its target, ignor-
+     ing everything else. So, it is possible to lure the missile into
+     crashing into the ground.
+
+     The fact which makes the missile even more dangerous is it's
+     ability to travel underwater. And it can outrun (swim?) all
+     MECUs underwater, where avoiding it is even harder than it is
+     normally. The V-wing can 9 missiles.
+
+     3. Waypoint Missile
+
+     This weapon is a missile, one that differs a lot from the "usu-
+     al" missile. It does have a guidance system, or rather not. The
+     ship has the guidance system, and the missile only has a receiv-
+     er that takes orders from the MECU's computer.
+
+     When you use the weapon, your MECU's computer will mark the spot
+     in space that you are in. Actually it just saves the coordinates
+     of the spot. (This will show on your screen as a flashing red
+     dot. It will not, of course, show on the other players'
+     screens). You can designate as many spots in space as you wish.
+     These are the way-points of the missile. It is a good thing to
+     remember the order you left them in, for it does not show from
+     the dots themselves.
+
+     When you fire the missile, it will start flying the path that
+     the computer has calculated for it, traversing the way-points
+     starting from the one you left last, and going in reverse order
+     until it gets to the one you left first. If it has not hit any-
+     thing by then, it will continue in a straight line. While your
+     missile is in the air, you cannot leave more way-points, or fire
+     more missiles. The ship's computer is concentrating on guiding
+     the existing missile. (The missile is fired by pressing the main
+     gun and auxiliary weapon buttons at the same time. If it does
+     not work, be patient, and press them both down for maybe two
+     seconds. If you just quickly press them, you might not have
+     pressed the two buttons at the same time, and thus your missile
+     will not fire.)
+
+     The missile itself has a large warhead, and an engine that has
+     an afterburner (see below). Thus, it has a lot of destructive
+     potential. The lack of a guidance system has allowed for more
+     fuel and explosives. The V-wing can have up to 16 missiles in
+     it's cargo hold.
+
+     4. Megabomb
+
+     This weapon is the most powerful, as far as destructive poten-
+     tial goes, available to the MECUs. Intended primarily for use
+     against immobile ground targets, it is dropped from a MECU fly-
+     ing over the target. The bomb itself has horizontal velocity
+     stabilizers, which enables the bomb to drop straight down, re-
+     gardless of the horizontal velocity of the MECU dropping it.
+     This goes a long way to ensuring that the bomb hits it's target.
+     The drawback, of course, is that you have to get above your    
+     target, which is more hazardous than bombarding it from afar.
+
+     The explosion itself is HUGE. Not only does the blast and heat
+     wave burn everything in sight, but the sheer number of shrapnel
+     and explosive particles flying around tears everything apart.
+     The effects of the explosion reach far, as the shrapnel are
+     thrown with great force. Soldiers located anywhere near the
+     blast are as good as dead, unless they have a thick protective
+     cover or are EXTREMELY lucky. In the unlikely event that a V-
+     wing will be hit by a falling bomb, the V-wing will be destroyed
+     instantly, even if it's shields and armor were at full strength.
+
+     The hole created by the blast is extreme. The explosion can
+     easily demolish even a large building or a medium sized base.
+     The hole is so deep that it will blow up the roof of even a deep
+     bunker, and it will uncover underground tunnels.
+
+     The bombs are not of great size, but they weigh a lot. This is
+     why only 4 of them can be fitted into the V-wing.
+
+     5. Shotgun
+
+     Another basic MECU weapon, this one is similar in use to the
+     Grenade Launcher. The effect, however, is totally different.
+     This weapon's shots are similar to the landmine (see below). It
+     shoots a concentrated burst of micro-explosives to the front of
+     the MECU. Because the initial charge that gives the explosives
+     their speed is detonated inside the MECU instead of in the
+     ground, the effect is smaller than that of the landmine. Other-
+     wise the MECU would be torn apart. Still, the recoil created by
+     this weapon is substantial. The V-wing's hold has room enough
+     for 12 shots.
+
+     The weapon is extremely effective at close range, where the
+     small explosives are still in a tight group. The damage inflict-
+     ed upon other vehicles lessens quickly as the range grows. Aim-
+     ing is not as important as with other weapons, because the area
+     of effect is larger.
+
+     6. Targeting System
+
+     This device was specifically developed for the V-wing, and does
+     not fit very well into other MECUs. The V-wing's main gun is not
+     firmly attached, but rather mounted on a mechanism that can turn
+     it around into any direction.
+
+     The ships computer constantly monitors the nearest enemy MECU.
+     It calculates the direction the gun should point to, in order to
+     hit the enemy. All this while the gun points forward, like in
+     all other MECUs. Now, when the device is activated, the gun
+     instantly swings to the predetermined position and starts firing
+     away. The computer adjusts the gun as the enemy moves.
+
+     The problem with the targeting system is the ammo feed of the
+     main gun. While it is in its standard position, everything is
+     ok. But when it is swinging around in myriad of directions, the
+     rate of fire has to be slowed, because otherwise the gun might
+     jam. Technicians are constantly trying to improve the ammo feed
+     system, so that the swivelling gun might also fire at full
+     speed.
+
+     While the system is active, it requires additional energy. This
+     is to move the heavy gun around, and to make precise adjust-
+     ments. Not much energy, but none the less so much that one can't
+     use it for ever. If there are no targets, the gun will swing to
+     a preset position (rear) when the targeting system is used.
+
+     7. Firebomb
+
+     This weapon fires command-detonated shots that burst into blaz-
+     ing infernos when they explode. The shots travel in a straight
+     line, at a certain speed, regardless of how or where they were
+     fired. As said, they detonate on command or when they impact
+     with ground or water.
+
+     Firebomb shots are somewhat similar to mines. They contain an
+     anti-gravity system, as well as a small propulsion system that
+     keeps the speed of the shot steady. They are armed with a small
+     explosive, and filled with thick fuel, that burns at an extreme-
+     ly high temperature. The shots are covered with a layer of gas
+     that is constantly undergoing a chemical reaction, that keeps it
+     very hot. This further enhances the destructive potential of the
+     weapon. It also gives the bombs their flaming appearance. This
+     weapon does not function underwater, because water ruins the
+     ammunition (bombs). And also, what good is a flame weapon under-
+     water? 
+
+     When the bomb detonates, the fuel is lit. The shell of the shot
+     shatters, and the fuel reacts with the layer of gas. The result
+     is hot flames bursting into the surrounding area, spread even
+     further by a pressure wave. The farther from the detonation
+     point one is, the more dispersed the flames will be. The flames
+     will damage any MECU, or fry any infantry or helicopters that
+     are caught in the blast. The blast is very destructive, but even
+     a thin layer of inflammable material will protect any units from
+     harm.
+
+     The ship's computer constantly tracks the bombs, or rather,
+     bomb. Each MECU can only have one shot in the air. If you try to
+     fire the weapon when you still have a bomb flying about some-
+     where, you'll only succeed in detonating the existing shot. The
+     bombs are quite heavy, and also take up a lot of space. A V-wing
+     can carry eight bombs of this type.
+
+     8. Electro-Zapper
+
+     This is a close range weapon. The MECU has a machine that cre-
+     ates a powerful electrical discharge in front of the MECU. While
+     it's range is indeed limited, this compensated by the massive
+     damage that it inflicts. The V-wing, for example, is fried to
+     crisp in just a few seconds. This weapon will char the land-
+     scape, and set fire to anything flammable. The drawback is, that
+     the V-wing's hold can only fit so many batteries. In effect, you
+     can't zap very long before you have to go to a base to get some
+     more power.
+
+     9. Wraithcannon
+
+     This weapon is a spectacular, if not rather odd weapon. The MECU
+     is fitted with an additional cannon, in addition to the main
+     weapon, that is. This cannon does not fire conventional bullets,
+     though. Instead it fires small bursts of energy. The good thing
+     is that these bullets can travel unhindered by terrain or gravi-
+     ty. So, you can shoot at enemy MECUs from, say, behind a wall or
+     some other obstacle. The bad thing about them is that they to-
+     tally ignore terrain. Huh? Well, you can't use these to blast
+     open any blocked corridors, just to make an example. These bul-
+     lets also totally ignore helicopters, infantry, and the like.
+     They are only usable against other MECUs.
+
+     The MECU uses small amounts of energy to generate the bullets.
+     I say small amounts, because a V-wing's hold can have enough
+     energy stored to shoot 144 shots. These also a bit less damaging
+     than the normal shots. The technology it uses has not been 
+     perfected yet.
+
+     10. Sonic Bomb
+
+     Unlike most other weapons, this one does not rely on explosives
+     or enormous impact force to destroy it's targets. It is quite
+     unique, and still undergoing testing.
+
+     The bombs themselves are filled with energy cells. They also
+     contain a small high-tech device. This device converts energy
+     into powerful ultrasonic vibration. When the bomb impacts, all
+     of the energy is channelled through the device. The pulse the
+     follows disintegrates the microstructure of all nearby material.
+     Well, at least, almost. The pulse weakens dramatically as it
+     expands, and all too soon, it disappears. Even though it's range
+     is limited, the effect is rather spectacular. MECUs in the area
+     of effect suffer immense damage, depending on how near the point
+     of impact they are. All ground, buildings, and such turn into
+     fine dust, that gently floats down and settles into heaps. What
+     is left is a sizeable hole with smooth edges. Because the bombs
+     do not create explosions, they can be used to eliminate targets
+     without endangering nearby friendly troops. Well, almost (see
+     next paragraph).
+
+     Unlike megabombs, sonic bombs do not have any sort of movement
+     stabilizers. They are just released from their holding rack
+     within the MECU. Thus, aiming with these is more difficult than
+     with the megabomb, and requires some practice. Sonic bombs also
+     weigh a lot less, and take up less space. A whole dozen can be
+     loaded aboard a V-wing. 
+
+     11. Soldiers
+
+     These fighting machines are the result of hundreds of years of
+     genetic engineering. Their fighting capabilities are raised to
+     incredible heights (at the cost of some brain power). Only
+     through their incredible strength and endurance is it possible
+     for them to carry their battle gear for days on. Protected by
+     the latest heavy combat armor, they are armed with an anti-
+     vehicle, harness-mounted cannons. They also carry single-shot
+     missile tubes, with which they can decimate the enemy. They are,
+     unfortunately, unable to survive even one hit from a MECU scale
+     weapon. Their suits have pincers on the arms, which enables the
+     men to grab onto enemy crafts. Unfortunately, the suits weigh a
+     lot, and have not life-support mechanism. So, the men drown in
+     water.
+
+     The MECU carrying these men is actually an armored personnel
+     carrier. When commanded, the soldiers jump out of the MECU and
+     start patrolling the area. With the help of their stealth abili-
+     ties and their detection deterring suit, they are able to hide
+     from the sensors of MECUs, and are only seen from close by.
+
+     The men don't have parachutes, only small thrusters in their
+     suits, so dropping them from too high an altitude may prove
+     fatal. The V-wing has room for 24 soldiers and their equipment.
+
+     12. Helicopter
+
+     The MECU is fitted with a small flightbay where helicopters can
+     be assembled. These are loaded onto the MECU in parts, compo-
+     nents which take up less room than the final product. They have
+     robot pilots. The V-wing has room enough in its cargo hold for
+     6 complete helicopters. Only one will be assembled at any time,
+     because it takes up a lot of space.
+
+     After assembly, the helicopters can be launched from the flight-
+     bay. They will then proceed to patrolling the area, attacking
+     enemy in sight. The helicopters are armed with one cannon, much
+     the same kind as the one on the V-wings, only it's firing rate
+     is considerably smaller.
+
+     13. Landmine
+
+     This MECU is equipped with a device that plants command-detonat-
+     ed mines into the landscape. These mines are planted to the rear
+     of the craft. The MECU will refuse to plant the explosive if its
+     sensors indicate that the ground is too far away. Once in the
+     ground, the mines can be detonated a will. They will explode
+     into a concentrated burst of micro-explosives, capable of in-
+     flicting lethal damage to V-wing, for example. The V-wing can
+     carry 9 of these explosives.
+
+     (The mine is planted just to the rear of the craft, six pixels
+     to be exact. It will be "facing" the direction the craft was
+     facing when is was planted. Pressing the auxiliary weapon button
+     a second time will detonate it. Thus, you can only have one mine
+     planted at any given time.
+
+     Hint: To try this one out, land the V-wing on any bigger piece
+     of land. Press the auxiliary weapons button. Move a bit to ei-
+     ther side. Press the button again. KABOOOOOM!!! In time, you
+     will learn to plant these mines while in flight, and so it will
+     be extremely difficult for the enemy to notice where you have
+     left them.)
+
+     14. Mine
+
+     This MECU has a device that drops off floating mines. These
+     mines have a limited cloaking ability, and can only be seen from
+     close up. After they are dropped, the mines will be inactive for
+     a few moments. This is to allow the ship that dropped them to
+     get to a minimum safe distance. Once they are active, they will
+     explode when in the vicinity of ANY ship. They will not, howev-
+     er, be set off by helicopters.
+
+     The device will refuse to drop off mines if the MECU is in wa-
+     ter. Water destroys their cloaking systems and short-circuits
+     them. The V-wing can fit up to 16 of these mines.
+
+     15. Dividing Mine (Destroyer of Worlds)
+
+     Though it may not be obvious at once, this mine is the most
+     destructive of them all. It is not actually a mine, but rather
+     an alien life-form, that has been stolen from a galactic storage
+     (jail). Once the MECU releases this thing, it will immediately
+     start to reproduce. So, from one comes two, then four, then
+     eight... you get the picture. If these creatures are disturbed
+     in any way, for example a MECU crashes into them or they are
+     shot, they explode into many small fragments, which themselves
+     may incite others to explode. Fortunately, they are unable to
+     survive underwater. The V-wing can have up to 6 of these
+     aboard, but you only need one...
+
+     16. Magnetic Mine
+
+     This craft has yet another kind of gadget that lays mines. These
+     mines, unlike all others, come to you. They have a powerful
+     electro-magnet inside them, and will start accelerating towards
+     any craft that comes too near. So that the MECU may lay them
+     safely, they have a short activation time. They are also shot
+     some distance to the rear on the MECU. They float like normal
+     mines, but they can be seen at all times. This is because the
+     cloaking system has been torn out to fit the magnet in. But, if
+     can see them, you are usually close enough for them to start
+     homing towards you...
+
+     These mines are the same size as the conventional ones, so the
+     V-wing can carry 16 of them. They can't dropped in water, and
+     will be rendered inactive if they come into contact with water.
+     Water tends to mess up the electrical systems in them.
+
+     17. Grav-Mine
+
+     This weapon leaves a sort of floating gravity well in the air.
+     It is actually a mine-like device, just without any explosives
+     inside. There is a mechanism inside that burns special fuel to
+     generate a strong gravitational pull. Once the fuel is all used
+     up, this "mine" will simply disappear, being a useless, empty
+     shell. This pull it exerts is stronger than the normal gravity
+     of the planet, and so it will "lift" MECUs of the ground. Like
+     normal gravity, it also affect all sorts of shots, and severely
+     hampers aiming in the nearby area.
+
+     These mines are unaffected by each other, or by the shots of the
+     grav-gun (see below). Once left, they will stick to the position
+     oblivious of all happenings around them. They will, however,
+     create a combined pull. Sometimes this pull is so strong that it
+     is impossible for a MECU to break free. When this happens, the
+     only thing possible is to wait for the grav-mines to burn up all
+     their fuel.
+
+     Unlike most other mines, these can be left underwater. They will
+     function there just the same as in air. The V-wing can hold 12
+     of these devices.
+
+     18. Grav-Gun
+
+     This weapon shoots a gravity concentration, very much like the
+     one created by the grav-mine. There are some very distinct dif-
+     ferences though. This grav-shot is fired to the rear of the
+     craft, and travels slowly throughout the world. It does NOT
+     affect the MECU that fired it, although it does affect ALL bul-
+     lets. The grav-shot is not really a shot, but rather a ball of
+     energy. It can, thus travel through water, earth, stone, and
+     everything else. It will fly straight, no matter what, and is
+     not affected by other grav-shots or grav-mines.
+
+     The reason this weapon does not affect the MECU using it is that
+     the ship's computer constantly "concentrates" on the shot. The
+     gravitational pull is so focused that it completely ignores the
+     MECU, having a sort of "blind spot" there. This is why there can
+     only be one shot in the air at any time (per MECU using this
+     weapon, of course). Computing the energy flows of two shots is
+     simply impossible. So, if one shot is in the air, and the same
+     MECU fires again, the first one will cease to exist.
+
+     When fired, the amount of energy dumped into the shot is enough
+     to last several minutes, so once in the air, no additional ener-
+     gy is required. The V-wing's storage can hold batteries enough
+     to fuel 8 shots of this type.
+
+     19. Antigrav-Shield
+
+     Because MECUs get fired at a lot, it has been necessary to de-
+     velop some sort extra protection beyond that which is offered by
+     the MECU's normal shields and armor. This device uses immense
+     electrical currents to generate anti-gravitational "push". When
+     active, all other MECUs and all bullets will be pushed away from
+     the MECU. Please note that there is a small circle in the middle
+     of the field where everything is normal. This is to allow the
+     MECU using this device to fly about unhindered. This also cre-
+     ates another interesting effect associated with this device. The
+     effect is only on the others, so to say. The MECU with the
+     shield is not pushed anywhere, if for example an enemy is pinned
+     to wall.
+
+     There have been some allegations that the system used is unsta-
+     ble. Some say that using such massive amounts of energy is haz-
+     ardous, because an overload might cause the device to collapse.
+     There is no proof of such failure. It is true, though, that the
+     shield sucks up huge amounts of energy, and so suffers from the
+     same power shortage problems as the electro-zapper (see above).
+
+     20. Worm-Hole Generator
+
+     This is one of the latest inventions in MECU technology. A rela-
+     tive of those gravity weapons (Grav-Gun, Grav-Mine, Antigrav-  
+     shield), this too creates a kind of gravity distortion vortex.
+     It does not, however, draw or push anything to or from it. This
+     one creates an effect which is called a wormhole between two   
+     places (yes, you need to use this weapon twice, for it to have
+     an effect). Ships can move between these two vortices faster   
+     than light, almost instantly.
+
+     Because this thing was not developed by the travelling agencies
+     but by the military, it is tuned precisely for the V-wing that
+     created it. Nothing other than a V-Wing can even pass through
+     the hole, and V-Wings other than the one that originally created
+     it suffer a small amount of damage, for each passage.
+
+     The MECU uses small energy charges to create these vortices.
+     Luckily only small amounts (relatively) are needed, which means
+     that a larger number of them can be created with the amount of
+     energy that can fit into the V-wing. The V-wing's cargo hold has
+     enough room for 12 charges (six complete worm-holes).
+
+     21. Ghostship
+
+     This device is one of the few MECU systems, which is defensive 
+     rather than offensive. It somehow alters the dimensions in which
+     the MECU is located. When it is on, the MECU can travel through 
+     any solid matter, or could if the device could totally change
+     the dimension in which the V-wing is located. Actually it only
+     shifts a bit this dimension, so the V-wing still remains par-
+     tially in the actual dimension, and so it can still be hit by
+     some things, in the real space (bullets, for example...).
+
+     The designer of the system didn't want to take any chances.
+     Because the MECU is not totally out of this dimension, bullets
+     might detect it, and detonate themselves INSIDE the MECU. This
+     could cause some serious and irreparable damage. So, whenever
+     the MECU is about to be hit by a bullet, the device materializes
+     a part of the MECU's shields or armor to block it. This prevents
+     severe internal damage.
+
+     Like most all energy-based systems, this one consumes a lot of
+     power. So, the small V-wing can only maintain the "out-of-phase"
+     status for a limited time before it's energy supplies run out.
+
+     22. Afterburner
+
+     This device gives the MECU momentary bursts of speed. The in-
+     crease in speed depends on the MECU type, but at least the V-
+     wing can outrun almost everything else, with the exception of
+     the D.A.R.T. The afterburner accomplishes this by injecting
+     additional fuel to the exhaust of the MECU's engine. This causes
+     a small explosion that shoots the MECU forward.
+
+     The afterburner leaves a trail of fire behind it. The fuel used
+     by it is a special mixture. The gel-like fuel burns long, and a
+     lot hotter than normal fire. It can damage MECUs or instantly
+     kill any infantry, or other small units that get too close.
+
+     This aspect of the afterburner was invented by mistake: While
+     developing the device, the testing crew once accidentally got a
+     batch of fuel meant for the construction of firebomb munitions
+     (see above), instead of the normal fuel. When they fired up the
+     afterburner, the sky lit up with bright lines of fire. Some
+     unfortunate nearby birds were instantly incinerated. Seeing that
+     the wrong fuel had no adverse effect, the designers decided to
+     develop the idea further. The result is what we have today.
+
+     The MECU's storage is filled with the thick, near explosive
+     fuel. The afterburner doesn't use up much fuel, so one can use
+     it a lot before having to go to a base for a refill. And, con-
+     trary to common belief, the afterburner can be used underwater.
+     The fire is instantly doused, but the speed increase is still
+     there.
+
+     23. Magnetic Disrupter
+
+     This weapon fires energy pulses to the front of the MECU. These
+     pulses are very strong initially, but weaken dramatically as the
+     distance grows. The pulses disperse quite quickly, creating a
+     cone-shaped area of effect. Once again, being an energy weapon,
+     this one is unaffected by gravity, or by the speed of the MECU
+     while firing.
+
+     The purpose of this weapon is to indirectly damage an enemy
+     MECU. The bursts of energy pass right through shields and armor
+     and create short-circuits and overloads in the electric systems
+     of the enemy MECU. This will result in small explosions in the
+     control systems, and will shut down or seriously damage one or
+     more of the controls. Erratic behavior of the MECU will follow.
+
+     Unlike other energy-based weapons, this one uses up relatively
+     small amounts of energy. So the V-wing can fit enough batteries
+     to generate up to 36 pulses without a refill.
+
+     24. Remote Control
+
+     This MECU has an antenna, and an device that jams and overloads
+     an enemy MECU's control system. The antenna is normally inside
+     the MECU, because knowing most pilots' flying habits, it would
+     be broken within a day if not protected.
+
+     When used, the antenna moves out of the MECU, and attempts to
+     make contact with another MECU. If an enemy MECU is with a cer-
+     tain range (which is not quite far, I'm afraid), the jamming
+     device will come to effect and the target MECU's pilot will
+     loose control. Next, the device will establish a link and you
+     are now in control of the other MECU.
+
+     Note that maintaining the link is REALLY difficult. First of
+     all, the remote control device eats up a lot of energy. You
+     won't have much time fool around with the other guy's ship (you
+     really don't need that much time). Second, you will loose con-
+     trol of your own ship because all of the commands are relayed to
+     the other ship. Thus, commonly your own ship will fall down (no
+     engine power) and sustain some damage. Third, firing the other
+     MECU's auxiliary weapon will break the contact. This is because
+     the computer you have can only control so much information.
+
+     25. D.A.R.T.
+
+     This MECU has a retractable metal spike in its bow. All of the
+     MECU's engines and turning thrusters are built so that they can
+     be activated for a maximum forward velocity. The Dart is a weap-
+     on that fires a very special missile: the MECU itself. When
+     activated, the spike will jump out and all of the MECU's engine
+     power will be spent on forward movement. The speed of the MECU
+     is far greater that achieved by any other means. Acceleration is
+     almost instant. If impact with another MECU occurs, horrendous
+     damage will be inflicted. The speed and force of the impact is
+     so great that only a few lucky V-wings will be able withstand to
+     two direct hits.
+
+     There is a down side, though. While darting, the MECU is not
+     maneuverable. It will go in a straight line, until it hits some-
+     thing solid. This something is way too often ground. This will,
+     of course, inflict some damage to the MECU using the Dart. Some
+     people have gone so far as to say that is a suicidal device.
+     Well ... um ... it is. But the huge amount of damage it inflicts
+     has ensured that it is still in use today.
+
+     The MECU uses a small amount of fuel to generate this extra
+     burst of speed. The MECU's hold is full of this fuel. The V-wing
+     has enough fuel to dart 24 times (though usually it turns to
+     scrap a long time before this limit is reached).
+
+     26. Plastic Explosives
+
+     This weapon is quite extraordinary. It coats the ground sur-
+     rounding the MECU with a highly volatile explosive. This explo-
+     sive is in the form of compressed goo, and when released will
+     harden upon the ground. When it is hit, even by the smallest of
+     bullets, it will explode into many small shrapnell, which, by
+     the way, will explode any nearby patches of this explosive.
+
+     To "plant" the explosive, the MECU must move close to the ground
+     and spray the ground with the stuff. The ground will change
+     color to indicating that it is now covered with explosives. The
+     explosive will remain there until someone sets it off by firing
+     at it.
+
+     The V-wing can hold quite a lot of the stuff, because it is
+     efficiently compressed. For example, if you were to dump all of
+     it in one location, the following explosion would be the biggest
+     ever seen.
+
+     27. Claybomb
+
+     This weapon shoots small packets of highly pressurized and com-
+     pressed clay. Upon impact, with either the ground or an enemy
+     MECU, the clay will instantly decompress, creating a huge mound
+     of dirt.
+
+     The shot is big enough to ignore helicopters. It simply sweeps
+     them along with it. Infantry who are unlucky enough to be caught
+     within this clay will perish. This is due to the fact that their
+     combat suits do not have a breathing device, and so they will
+     suffocate. The pilot is different in this respect. His suit does
+     have a breathing device, so he'll just be stuck inside the mound
+     of clay.
+
+     Due to the fact that the shots are made of compressed matter,
+     they weigh quite a lot. For this reason, the V-wing can only
+     stock eight shots.
+
+     28. Snowball
+
+     The snowball is actually the name invented by the pilots for the
+     shots of this weapon. It shoots small spheres, made of an ex-
+     tremely fragile material. These spheres contain an instant
+     freeze agent, so powerful that it can turn men into solid ici-
+     cles. When the shots hit anything, even water, the agent is
+     released. As a result, ground near the spot of impact is covered
+     with a frosting, water freezes, and so on.
+
+     When a MECU is hit with this weapon, it is instantly covered
+     with a layer of ice. This prohibits the use of thrusters, en-
+     gine, and any weapons what so ever. This unfortunate MECU is
+     then a sitting (or actually a falling) duck. When the MECU hits
+     a solid surface, the ice is broken and the rest of the agent
+     drains off.
+
+     This weapon relies on pressure to propel the projectile (the
+     "snowball"). This takes up some space. So, the V-wing can only
+     hold 12 shots for this weapon.
+
+     29. Repair Droid (RD-22)
+
+     This droid is a rather new invention, not so because of the
+     technology required, but because of the way of thinking. Before,
+     all pilots (and most of them still today), thought it only rea-
+     sonable to create and research more weaponry, in order to make
+     MECUs more destructive. Only recently, somebody dared mention
+     that it could pay off to be able to repair the MECU outside of
+     bases, and not just hope that you'll be able to kill the enemy
+     before it kills you. So, the repair droid was created.
+
+     The newest model of this droid is the model 22. It uses up ener-
+     gy to create localized deflector shields, to patch up places
+     where the armor is blown off. It is also hooked onto the MECU's
+     shield system. Whereas the shield does not normally replenish
+     itself, with this droid, you can use energy to strengthen it.
+
+     A really big advantage of the droid is that it fixes critical
+     hits, all by itself. The droid has long extendable arms with
+     which it can reach out and do repairs on the ship. As said, this
+     does not consume any energy.
+
+     The only problem with the droid is that it is quite slow. With
+     the MECU's hold filled with energy cells, there's enough energy
+     for the droid to operate a long time. It slowly patches up the
+     bullet holes on your ship, an reaches out with it's arms to make
+     repairs. Only, the enemy is NOT going to just wait there until
+     you can get your right turn thruster operational again.
+
+     30. Watercannon
+
+     This weapon is, well, as it's name states, a watercannon. It has
+     a very powerful mechanism that propels water into a long arc in
+     front of the MECU. Well, so what, you ask. It can, um, uh, ...
+     distract opponents.
+
+     The watercannon causes physical pressure on opposing (or friend-
+     ly) MECUs it hits. This may cause the MECU in question to flip
+     around, hampering it's maneuverability. This may even cause the
+     MECU to crash into the ground.
+
+     The good thing about the watercannon is that it can be refilled
+     really easily and really fast. Just plunge into any body of
+     water and fill 'er up. Even with the MECU's tanks all empty, the
+     refilling only takes a few seconds.
+     
+     31. Pulse Laser
+
+     This weapon is, as it's name states, a laser. It "shoots" a
+     short-lived laser beam, from the tip on one of the MECU's wings.
+     This distracts the pilot less than if it were fired from the tip
+     of the craft, and is just as accurate. After being fired, it is
+     inactive for a short while. This allows the device to cool down,
+     for generating the powerful beam also generates a lot of heat.
+     Thus, when the weapon is used in battle, it will look like a
+     multitude of sequential streaks across the sky. This has caused
+     it to be named Pulse Laser, instead of the original Laser Mod.
+     #817-A.
+
+     The Pulse Laser is, as one might expect, a very accurate weapon.
+     There is no need to lead, to take into account your own move-
+     ment, and the like. Just point and shoot. The beam hits it's
+     target at exactly the same time that you press the trigger. The
+     beam is also very destructive, and burns holes into the ground,
+     AND inflicts serious damage to a MECU (not to mention helicop-
+     ters or infantry).
+
+     The big problem with this weapon is the heat it generates. It's
+     use is regulated, which causes it to pulse, but experience has
+     shown that this is not always enough. Therefore, until a better
+     solution is come up with, the laser trigger overrides the main
+     weapon fire control. That is, if you are using the laser, your
+     main weapon will cease firing. This is to prevent accidents,
+     like ammunition explosions, which were too frequent before this
+     limit was imposed.
+
+     This weapon does not use much energy, for the laser pulses are
+     short lasting. The V-wing can hold enough batteries to generate
+     72 pulses.
+
+     32. Napalm Spray
+
+     Now HERE is REAL weapon! The famous words of an U.P.G. command-
+     er, when he first saw this weapon in action. He was, though,
+     standing in the middle of a blazing inferno that had just a few
+     seconds ago been a target practice field. Anyway, he was im-
+     pressed, and in two weeks time the device started mass produc-
+     tion for the U.P.G.'s combat MECU.
+
+     The weapon propels super-heated napalm (a special mixture) in a
+     long cone in front of the MECU. The napalm will stick to any
+     MECUs it hits, and will set ablaze anything it contacts. Infan-
+     try and helicopters are slowly fried, and MECUs will continue to
+     take damage as long as they are covered with the stuff. It will
+     burn out eventually, but in the meanwhile the damage it inflicts
+     is horrendous. Because of it's long range, the weapon can be use
+     to rain fire (literally) on ground targets or bombard MECUs from
+     a distance (less effective since the spray is more dispersed).
+     The best use of the weapon, is, however, in close combat, dog-
+     fight. There, you can flood your enemy with the napalm, cover
+     him/her with it. This spells almost certain doom.
+
+     The only way to rid yourself of the burning slime is to dunk
+     yourself in water. The water cools down the napalm, which needs
+     a high temperature to burn.
+
+     The V-wing's tanks can hold quite a lot of napalm, for it is
+     stored in a compressed form. When heated, it expands, and this
+     further increases the speed with which it is propelled from the
+     MECU.
+
+     33. Shadowdancer
+
+     This device was first discovered in a wreckage of an alien ship.
+     The ship had been buried in ice on the far off Qatarr world of
+     R'Qahga. No one knew how long it had been there. No one cared.
+     No one knew how to operate the ship, so it was looted, stripped
+     of anything that was potentially valuable.
+
+     It took a long time for the Qatarr scientists to learn how to
+     operate this device, and only recently did they manage to manu-
+     facture duplicates of it. They are still at loss at how the
+     device does what it actually does.
+
+     When the device is activated, it will produce a shadow image of
+     the MECU using the device. This shadow, as we shall call it,
+     will drift about, doing absolutely nothing. It cannot be harmed
+     in any way. After a while, it will disappear.
+
+     Now, when the second function of the device is used, something
+     spectacular will happen. The MECU will switch places with a
+     random shadow, so to speak. That is, the real MECU will appear
+     where there was a shadow, and it's previous location will be
+     replaced by a shadow.
+
+     There is talk that the device creates additional dimensions, one
+     for each shadow, so that by manipulating probability, the MECU
+     can appear where it is not (was not) supposed to be. However,
+     this is all just speculation. No one knows the truth. All the
+     scientists know is how to feed energy to the device. It consumes
+     a certain type of biomass. Anyway, the only fact that interest
+     pilots, is that the V-wing can fit enough "fuel" to create 9
+     shadows.
+
+     (When you press the Auxiliary Weapon button, a shadow will ap-
+     pear (if you have enough energy). By pressing both turn buttons,
+     or pulling the joystick down, you will swap locations with one
+     of your shadows.)
+
+     34. Inertia Nullifier
+
+     This device is a rather interesting one. It was just recently
+     developed by the Qatarr, and in the eager fuss, no one remem-
+     bered to ask, why. The scientists are proud of inventing some-
+     thing new, and the military commanders are happy to have a
+     "weapon" that does something spectacular and is not available to
+     the enemy. And so, the pilots that are made to use it, have no
+     idea what to do with.
+
+     Okay, so what does it actually do? The Inertial Nullifier, when
+     used, releases a charge on nullifying energy, that sucks up all
+     of kinetic energy in the surrounding area. This has the effect
+     of stopping all movement. Bullets stop in midair, MECUs stop
+     moving, everything "freezes". After the discharge of the Nulli-
+     fier, particles that cannot propel themselves will start to
+     drop, as the gravity starts accelerating them. Other things,
+     like MECUs and missiles, will continue their movement, acceler-
+     ating normally.
+
+     You can use the Nullifier to protect yourself. If, for example,
+     a Shotgun blast is heading for you, you can stop it, after which
+     it will drop harmlessly to the ground. Clever pilots often use
+     the device for other things, but those have to be figured out
+     individually for each case.
+
+     This is (obviously) an energy "weapon". But, it does not use a
+     lot of power, so the V-wing can have enough energy to generate 9
+     discharges.
+
+     35. Death Spinner
+
+     The MECU that houses this machine is modified so as to facili-
+     tate (or actually enable) the use of the Death Spinner. The
+     cockpit is built into a ball, that has a gyroscope. So, the
+     Spinner is activated, the cockpit will always be upright, an
+     enable the pilot to control the MECU.
+
+     The Spinner itself creates a plasma shield, or actually a blast,
+     around the MECU. This gives the MECU enormous speed. It also
+     causes the MECU to spin wildly. Because of this, the cockpit is
+     stabilized. If the spinning MECU hits ground, it will take no
+     damage, as the plasma shield dampens the impact and protects the
+     MECU from harm. If the MECU hits other MECUs, or helicopters or
+     the like, it will cause a lot of damage to them. Unlike the
+     Dart, this does not causes the Spinner to go off. The device
+     will be on for as long as the one "charge" lasts, regardless of
+     what it hits on the way.
+
+     The "charges" that the device uses are a mixture of reaction
+     fuel, and energy to start the whole thing. The fuel is measure
+     so that the effect last a 10 seconds. The V-wing has enough room
+     for 12 of these charges.
+
+
+     V. Survival
+     -----------
+
+     i. Levels
+
+     Surviving requires a lot of knowledge, not only of your ship,
+     but of the flying areas too. Here are all of them explained    
+     shortly (not that the information helps all that much).
+
+     City Greyend:
+        This city is the capital of the United Planets of Greyend. As
+        in every big city, here too you get lost all the time. In the
+        middle of the park, there is a statue honoring the Emperor.
+        There is a military zone in the city. It is said that they
+        are testing a new kind of mine here, but no one knows, what
+        kaaargg...
+
+     Twilight Zone:
+        This zone is between the ex-Qatarr imperium, and the U.P.G.
+        area. There are few things of human make here, and few people
+        want to come here anyway. There are few stabilized bases in
+        the area, and no civilians, not counting one certain Count
+        Twilight, who complains about MECUs flying over his castle.
+
+     Twin Cities:
+        A former free state, now two free states. The former was    
+        known as the city of Q'an. The water level of the nearby    
+        ocean started to rise, and the people were forced to move to
+        the upper islands. Two warring factions rose, and so were   
+        founded two cities: Zhur and Zh'Ñx. After a brief war, a    
+        ceasefire was agreed on, and buoys water made to mark the   
+        border. Each city sports a spaceport, and both have lower   
+        status citizens living on the lower islands. A church is    
+        built between the two cites, in a neutral area. The ruins of
+        Q'an are still there.
+
+     Colossus:
+        The greatest, and most remarkable landmark in the area is the
+        Colossus, financed by the citizens of Winorg. By looking at
+        this monument, you can guess that the crystal mines near the
+        city are profitable (the Colossus happens to be about ten   
+        times as big as the whole city).
+
+     Abyss:
+        This level is a bit different from the others: it is almost
+        totally immersed in water. There is a U.P.G. military deep
+        sea research base, and a small town for the crew of the sta-
+        tion. There is also a massive underwater mountain, and there
+        are rumors of humans living in confined air "holes" and other
+        underwater civilizations who may have advanced technology.
+        This is the reason for the U.P.G. government interest.
+
+     Jungle:
+        Like the Twilight Zone, this area is quite lightly inhabit-
+        ed. The U.P.G. has founded only one base in the area, but it
+        is told that deep in the jungle, there are a few research   
+        stations, examining the weird kind of funguses growing there.
+        In the middle of the jungle, is one primitive village. It is
+        told that its inhabitants fear MECUs.
+
+     Citadel of Yoqu:
+        This place is owned by the Emperor's cousin. He has built a
+        small keep to demonstrate the power he wields. He owns a    
+        small qerztite mine and has a number of serfs working for   
+        him. He treats his subjects quite badly, and so they have re-
+        belled once already. Because of this, a small tower and a   
+        moat have been built to guard the serfs' village. The serfs 
+        have permission to try out lighter-than-air platforms. They
+        are, however, secretly developing a MECU base deep in the   
+        mines, in order to overthrow their tyrant. It is rumored that
+        he has built secret passageways under his keep.
+
+     Old Space Station:
+        In the early years of the GW I one spacestation crashed on  
+        this planet. Luckily, it did not explode, as is usual in
+        these situations. Nowadays, some rich guy has developed a
+        tourist trap out of this station. There are hotels, space-
+        stations and all that kind of stuff above the station. The
+        station itself, however is not actually stable. Some scien-
+        tists say, that it can still explode, but as long as the
+        tourists are paying, who cares?
+
+     Duh Cave:
+        The Qatarr are building an underground MECU base on the     
+        desert moon of Duh, in a single-planet system near the heart
+        of the U.P.G. empire. They are trying to disguise the base as
+        a simple village of serfs. This, of course is against their
+        peace treaty with the U.P.G. While digging, they ran into an
+        advanced civilization living underground. The Qatarr promptly
+        decided to wipe them out, being a "serious threat" to their
+        project. They managed to destroy the city of Ngar, but the
+        other two cities are putting up a respectable resistance. The
+        Qatarr also want access to the ground water supply, as trans-
+        porting food and water to the planet (without arousing suspi-
+        cion) is getting to be quite costly.
+
+     Sky City:
+        Another insanely rich man got to fulfill his dream. Yes, this
+        whole thing started with one man who wanted a flying castle,
+        that looked like it was floating on a cloud. This has become
+        a fad, and people are inventing new and original floating   
+        homes (or summer cottages), like the ones that look like huge
+        trees. All of them have gathered into a flying city, that in-
+        cludes a park, and lots on other cool things. One more float-
+        ing home is currently under construction, alas, it is just
+        another boring keep. The U.P.G. military wanted to make sure
+        that the flying platforms wouldn't be used to do anything   
+        "unsuitable". Thus, they sent a light carrier to "protect   
+        the civilians of the town".
+
+     ii. Criticals
+
+     To survive, you need to know your weaknesses too, so read care-
+     fully the following list of possible critical hits, and their
+     effects.
+
+        Criticals with "*" are cumulative:
+
+        Critical:                             Effect:
+        Turn Left/Right:......................Lft/Rght thruster ceas-
+                                              es to operate.
+       *Control:..............................Turning thrusters start
+                                              to operate erratically.
+       *Engine:...............................Engine damaged, engine
+                                              power is diminished.
+       *Engine Core:..........................Fusion engine shielding
+                                              is breached. Whenever
+                                              you thrust your ship is
+                                              damaged.
+       *Fuel Control:.........................Fueling system gives
+                                              sudden bursts of fuel
+                                              to the engine, creating
+                                              a hiccup-like effect
+                                              for your ship.
+       *Main Weapon:..........................Main weapon damage    
+                                              makes the gun unreli- 
+                                              able.
+        Auxiliary Weapon:.....................Auxiliary weapon be-  
+                                              comes useless (does not
+                                              function).
+        Firing System:........................Both your weapons sys-
+                                              tems start firing them-
+                                              selves at will (their
+                                              own).
+       *Hold:.................................The latest hit blasted
+                                              open your cargo hold,
+                                              causing everything    
+                                              inside to slowly drop
+                                              out.
+        Ejection Seat:........................Your ejection system is
+                                              broken. The hatch is  
+                                              jammed shut. The seat
+                                              won't launch. You have
+                                              to BREAK out.
+
+     If your ship has an Engine Core critical, it will produce smoke
+     whenever you thrust forward. We feel that this is perhaps the
+     single most dangerous critical, and so you will be additionally
+     warned if you have it.
+
+     For the sake of playability, it has been set so that you cannot
+     have BOTH Turn Left and Turn Right criticals. It didn't take all
+     that much playtesting to see that having both turn criticals
+     isn't fair, nor is it fun.
+                                              
+     iii. Gun Turrets
+
+     The gun turrets are, well, just that. They are designed to pro-
+     tect the area where they are deployed. They will fire at ALL
+     nearby MECUs. They will, however, ignore infantry and helicop-
+     ters (who in turn ignore them). Most turrets can be seen before
+     they start firing, but some are more devious.
+
+     There are the five types of turrets:
+       Type 1: This is the weakest of them all. This turret fires
+               normal bullets, at a slow rate. Doesn't pose much of
+               a threat, unless deployed in large numbers or your 
+               MECU is in bad shape to begin with.
+       Type 2: This is your basic turret. It has a high velocity
+               anti-vehicle gun, quite similar to the one that the V-
+               wing is equipped with. Can cause noticeable damage,
+               and is usually quite troublesome.
+       Type 3: This turret is has a big gun for weaponry. It fires at
+               a reasonably slow rate, but its shots are large explo-
+               sive shells, similar to the one fires by the Grenade
+               Launcher. Can pose a serious threat, and can inflict
+               lots of damage.
+       Type 4: This one is a missile launcher. It cannot be seen
+               from far away, because it is situated underground.
+               When a MECU come near, a missile tube will rise from
+               the ground and fire a SAM. The missile will track the
+               MECU until it impacts. It causes a lot of damage. That
+               combined with the fact that this turret can not be
+               seen from afar, makes it very dangerous.
+       Type 5: This turret has the biggest damage-inflicting capabil-
+               ity. It has a high power particle beam projector as a
+               weapon. The blast inflicts enormous damage. Luckily,
+               this weapon has to track the MECU, and is quite slow
+               at that.
+
+     Turrets of types 1,2,3 and 5 look the same. There are differenc-
+     es in the barrels of types 1,2 and 3. Type 5 doesn't have a bar-
+     rel. You'll recognize type 4 when you see it. In time you will
+     be able to tell the turret type quite easily.
+
+     That which kinds of turrets appear, can be changed from the
+     MISCELLANEOUS|ENEMIES menu, from the option TURRET ARMAMENT.
+     There are five different settings for this option:
+        Feeble: Only type 1.
+        Weak:   Type 1 and 2.
+        Normal: Types 1,2 and 3.
+        Strong: Types 2,3 and 4.
+        Killer: Types 2,3,4 and 5.
+
+     The amount of beating that the turrets can take can altered from
+     the same menu as above, from the option TURRET ARMOR. When the
+     damage limit is exceeded, the turret will explode. Note that
+     this affects ALL types of turrets.
+
+     The number of turrets can also be changed. This is done from by
+     toggling the AMOUNT OF TURRETS option. You can vary it anywhere
+     from 1 to 40.
+
+     The turrets will be randomly placed in the levels. They can be
+     on the ground, on cliffs, on even hang upside down. They also
+     can appear in some weird or stupid-looking places.
+
+     iv. H-wings
+
+     H-wings are a new type of MECU, developed by the U.P.G. Their
+     primary function is to act as guards. They are unmanned, piloted
+     by an artificial intelligence. A bit lighter in build and a bit
+     slower than V-wings, but much more maneuverable. With guns AND
+     thrusters built on two sides, they make formidable enemies.
+
+     Options for the H-wings can be found in the MISCELLANEOUS|
+     ENEMIES menu. Here is explained what they do. Note that they do
+     not do anything if you only have one player. See "Single Player
+     Game".
+
+     AMOUNT OF H-WINGS: determines how many H-wings there will be
+     in each level. The range is one to eight.
+
+     H-WING ARMOR: is a flexible option that determines how much
+     beating each H-wing can take before it is destroyed. The color
+     of the H-wings will change according to how much damage they
+     have taken. H-wings can have anywhere from 33 to 190 points of
+     armor (for reference: V-wings have 144 armor).
+
+     H-WING WEAPONRY: chooses how deadly the H-wings are. There are
+     three settings for this option: poor, normal and good. Poor
+     H-wings have twin guns, with a slow rate of fire. Normal H-wings
+     have twin guns with a reasonably high rate of fire. Good ones
+     have the mentioned guns, and a Grenade Launcher. Ugh!
+
+     v. Pilot
+
+     This section describes the pilot, what he/she can do, cannot do,
+     and will never ever get to do. Just kidding. But seriously, the
+     reason this section is under "Survival", is because life as a
+     pilot is a constant struggle to stay alive. Some pilots have
+     even shot down enemy MECUs, but these are not-so-very-likely
+     happenings.
+
+     The controls of the pilot are in the "Controls" section. Read
+     them carefully, because different keys do different things de-
+     pending on where the pilot is or what he/she is doing. The con-
+     trols also tell you what the pilot CAN do in different places,
+     for example on the parachute.
+
+     All pilots have a full body combat armor suit. This suit, unlike
+     the ones the soldiers have, has a built-in life support system.
+     This allows the pilot to survive inside a claybomb "blast" and
+     in water. The armor has a harness-mounted cannon that is slung
+     to one side so that it can be operated with one hand. In the
+     other hand the pilot has pincers and controls for the rope the
+     he/she uses to move around. The rope can be used to swing around 
+     or to CATCH ONTO other MECUs. The pincers are used to grab onto 
+     enemy, and friendly, MECUs. The armor suit also has a jetpack, 
+     that allows the pilot to make those incredible jumps.
+
+     You first see your pilot (yourself?) when he/she ejects from the
+     wreckage that used to be your ship. The ejection seat will
+     launch the pilot up, and if your wreck was moving horizontally,
+     in the opposite direction. This is all to help the pilot sur-
+     vive. Still, by far the most common cause of death for ejected
+     pilots is the explosion caused by their own ship when it hits
+     the ground. When a V-wing explodes, it creates a huge amount of
+     shrapnel. And, if by some miracle, the pilot survives the first
+     onslaught, another wave will be coming soon from the ones that
+     flew up (what goes up, must come down). So, if at all possible,
+     eject long before the wreck hits the ground and/or use the para-
+     chute to steer away from the explosion.
+
+     Okay, so now your pilot is safely on the ground. He/she needs to
+     avoid enemy HELICOPTERS and INFANTRY. They spell DOOM. Gun tur-
+     rets are a pilot's friends, since they don't shoot at him/her.
+     The nastier the turret, the better. Try to get the pilot into
+     places where stray shots or shrapnel flying by won't hit
+     him/her. This can be acomplished by DIGGING. A hole won't shield 
+     the pilot from the wrath of an angry V-wing, but it will protect 
+     him/her from random shots. And, make sure your pilot is not 
+     underwater for too long, because he/she will suffocate. 
+     Usually, it is faster to travel by jumping, rather than running. 
+     This does, though, make your pilot much easier to hit than if 
+     he/she were on the ground.
+
+
+     VI. Options
+     -----------
+
+     This section describes what the various options in the various
+     menus actually do.
+
+     MAIN MENU
+
+     From here you can access all of the options and menus. The nu-
+     meric keys here will alter the number of players (range 1-4).
+
+     See "Single Player Game" for further info.
+
+     WEAPONS Menu
+
+     Here you can choose an auxiliary weapon for each of the four
+     players, even if you are playing a with fewer people.
+
+     You can alter the amount of damage inflicted by the main weapon.
+     The range 1-20. The default is four. This affects all normal
+     bullets, like the one fired by soldiers and choppers, shrapnel,
+     turret shots (and most of all, the Shotgun).
+
+     From here it is also possible to change the main weapon to semi-
+     automatic. That is, you have to press the button once for each
+     shot. This is probably a good idea if the main weapon damage is
+     high.
+
+     Pressing the 'r' key in this menu will generate random auxiliary
+     weapons for each of the four (possible) players.
+
+     LEVELS Menu
+
+     Here you can choose eight different levels, in order of play
+     (number one is the first one, and so on). Again, you can choose
+     all of the eight levels even though you are playing with less.
+     Here the numerical keys will change the amount of levels (range
+     1-8). Pressing the 'r' key here will generate random levels for
+     each "slot".
+
+     CONTROLS Menu
+
+     From this menu you can alter the keys for each of the four play-
+     ers. This may be necessary to ensure a good game (see trouble-
+     shooting). Also, having NumLock on may cause some trouble.
+
+     You can also calibrate both of the two possible joysticks. Do 
+     this before you assign the joystick(s) to a certain player.
+
+     You can also change the manual eject keys. By default, they are
+     side by side, so in the midst of combat it is possible to
+     accidentally eject someone else.
+
+     MISCELLANEOUS Menu
+
+     Whereas the other menus have been rather straight forward, this
+     one is a jumble (jungle?). You can find all sorts of weird op-
+     tions here, including three sub-menus.
+
+     The three flexible options are GROUND COLLISION DAMAGE, NUMBER
+     OF CRITICALS, and SHIP TURNING RATE: 
+        -The collision damage is quite self explanatory. If at the  
+         highest setting, the damage done by a crash is more than   
+         half the maximum damage that the V-wing can withstand.
+        -The Critical switch actually affects the chance to get a   
+         critical, every time damage is inflicted after your shields 
+         are gone. So, it does indirectly affect the number of crit- 
+         ical hits a ship has at any given point.
+        -The turning rate affects how fast ships turn. No matter how 
+         high this is, when you first start turning, the ship will  
+         turning slowly for a short while. This is to allow precise 
+         adjustments.
+
+     The other options are as follows:
+        -SHIP WRECKAGE: If this is off, there will be no gray spin-
+         ning wreckage. Ships will explode when their damage thresh-
+         old is crossed. If wreckage is off, the EJECTION SEAT
+         option is automatically set to inactive.
+        -CRITICAL HITS: This option determines whether or not ships
+         sustain (or at least have a chance to) critical hits. If off
+         there will be no critical hits.
+        -GUN TURRETS: This option determines if there are turrets in
+         the play areas (affects all of the eight levels).
+        -H-WINGS: Determines if there H-wings in the world.
+        -GRAVITY: This changes the gravitational pull exerted by the
+         planet. Affects all ships and bullets (not energy weapons).
+        -AIR VISCOSITY: Changes how much air slows down ships (does
+         not affect bullets of any sort).
+        -EJECTION SEAT: To have this active, you must also have
+         wreckage on. If active, your pilot may eject from the gray
+         remnants of your V-wing and continue the fight (although at
+         this point your chances of winning are quite low). If inac-
+         tive, the wreck will just continue spinning and will explode
+         when it hits the ground.
+        -TEAMS: There are two team options. Both are two against two.
+         If you set the teams on, the number of players will automat-
+         ically be set to four. The team options are players 1&2 vs
+         3&4 and 1&3 vs 2&4 (top screens vs bottom; left vs right).
+
+     MISCELLANEOUS|RANDOMIZING Menu
+
+     This menu deals with the randomizing of weapons and levels.
+     There are four yes/no options:
+        -RANDOMIZE WEAPONS AT BEGINNING: This determines if random
+         auxiliary weapons are generated for each player when the
+         game starts.
+        -RANDOMIZE LEVELS AT BEGINNING: Same as above, but for levels
+         for each of the eight "slots".
+        -RANDOMIZE WEAPONS BEFORE LEVELS: If this is on, a random   
+         auxiliary weapons will be generated for each player before
+         each level. If this is off, the game will ask you before   
+         each level (except the first one) whether you would like to
+         change weapons. You can bypass this screen by pressing any
+         other key but 'y'.
+        -ALLOW SAME WEAPONS AT RANDOMIZING: This determines if it is
+         possible for the random weapon generator give two or more
+         players the same auxiliary weapon.
+
+     The last option, which we call banning (BAN SOME WEAPONS FROM
+     RANDOMIZING), removes auxiliary weapons from the list which the
+     random weapon generator uses. That is, those weapons will never
+     show up when random weapons are selected. This does not deter
+     you from choosing them manually from the WEAPONS menu.
+
+     MISCELLANEOUS|BASES & ENEMIES Menu
+
+     This menu contains the options concerning bases and gun turrets
+     and H-wings. Only the base options are discussed here. The 
+     turret options are covered in the "Turrets" section and options
+     for H-wings in their own section.
+
+     BASE WORKING RATE: This option affects how fast the techni-
+     cians (or robots, or whatever you like) working at a base do
+     their job. It determines how fast a craft is repaired of damage
+     and criticals, and how fast the hold is refilled.
+
+     The following options determine what the bases actually do and
+     don't do:
+        -BASES REPAIR: This determines if the base fixes damage or
+         not.
+        -BASES RESUPPLY: This determines whether the base refills the
+         ship's hold with whatever is needed for the auxiliary weapon
+         to function.
+        -BASES FIX CRITICALS: Well, this is quite obvious. Yours   
+         truly urges you to keep this option a 'yes'. Otherwise the
+         game becomes rather ridiculous.
+
+     The last option is not really related to the bases, but is here
+     anyway. Well, it is related, but rather indirectly. If it is set
+     to "WINNER MUST LAND TO WIN", the last pilot needs to get to a
+     base, with or without a craft, to win. Otherwise the winner is
+     determined instantly when there is only one pilot alive.
+
+     MISCELLANEOUS|DETAILS & EFFECTS Menu
+
+     This menu has, well details in it. Also some environmental ef-
+     fects, and such. Changing some of these may speed up the game.
+     So, here they are:
+        -FIRE: Whether or not flammable things burn. Fire looks rath-
+         er nice, but may slow down the game.
+        -SNOWFALL: Well, if this option is on, there will be constant
+         snowing in all of the levels. Given enough time, the snow
+         will pile up into big banks.
+        -SLIPPERY LAND: Determines if the land (terrain) is slippery
+         or not. If yes, ships will slide on along surfaces (really
+         irritating!).
+        -STARS: Turns the background stars on/off. Stars look nice.
+        -BIRDS: Allows/disallows birds. Birds generally do nothing,
+         except explode into feathers and blood when shot. They will,
+         however, peck your ship if you shoot at them (that is, if
+         they survive). They can also be used for travelling purposes
+         (huh? ;).
+        -BLOOD: This option determines how much blood is splattered
+         when birds or infantry bite the dust. There are three set-
+         tings: no thanx, normal, a lot. Try it out, you'll see the
+         difference.
+        -PELLET HOLE: This changes the size of the hole created by a
+         normal bullet. If you have set to small, the landscape will
+         be less beaten, but it will be considerably harder to make
+         holes, tunnels, and the like.
+        -RESOLUTION: Changes the resolution between 320*400 and
+         320*200. The later mode is faster, but the first one is 
+         looks a LOT nicer. Can be toggled during the game by press-
+         ing F5.
+        -WIDE SCREENS: If this is on, in one or two player game, the
+         screens will be twice their normal size. This looks a lot
+         nicer, but slows down the game.
+
+
+     VII. Winning
+     ------------
+
+     i. Who's the winner?
+
+     The winner is the pilot who has one unique characteristic:
+     he/she lives.
+     
+     Usually it is required that he/she (but not necessarily his/her
+     ship) gets to a base (this requirement can be turned off from
+     MISCELLANEOUS|BASES menu).
+
+     In team play, (set from the MISCELLANEOUS menu) there can be two
+     winners, assuming that they are from same team of course. Anoth-
+     er difference between team play and normal play is, that some
+     weapons count your team mate as a friend, for example missile
+     and soldiers.
+
+     ii. Hints
+
+     Here are a few hints for winning:
+
+     In non-team play:
+        -Fly fast.
+        -Avoid bullets.
+        -Aim.
+        -Kill everything in sight.
+        -Visit bases whenever it is safe.
+        -Trust no one.
+        -Try to get the other players to kill each other.
+        
+     In team play:
+        -Fly fast.
+        -Avoid bullets (yes, the ones which are from your team mate
+         too).
+        -Aim (but not at your team mate).
+        -Kill everything in sight (except your team mate, his chop- 
+         pers or soldiers).
+        -Visit bases whenever it is safe, and if possible protect   
+         your team mate.
+        -Gang up against one enemy, so that you are two against one.
+        -Trust not too much on your team mate.
+        -Some weapons are really great when they are combined, here
+         are just a few examples:
+            SNOWBALL+MEGABOMB.
+            CLAYBOMB+ZAPPER.
+            REMOTE CONTROL+PLASTIC EXPLOSIVES.
+            etc.
+
+     iii. Single Player Game
+
+     If you chose only one player, the game will differ quite a lot
+     from the multi player mode. A lot of the options will be 
+     rendered useless. The game will automatically set up most of the
+     options. About the only option that works in one player mode is
+     the choice of weaponry, and the details. You can mess around
+     with the options, they just won't do anything. The weapon you 
+     choose will be the same for all of the levels.
+
+     The idea in the single player game is to destroy gun turrets and
+     shoot down H-wings. You advance through different levels, with
+     both turrets and H-wings getting tougher as you go on. You get
+     points for destroying enemies, for time, and for completing a
+     level. If you eject, and make it to a base, you will advance to
+     the next level, but will be awarded no points for time or level
+     completion.
+
+     If, for some unfanthomable reason, you need to visit a base, it
+     will cost you. Repairing will drain your points. At higher
+     levels, bases may not even repair.
+
+
+     VIII. Troubleshooting
+     ---------------------
+     
+     Problem:   V-Wing sometimes runs too slowly.
+     Solution:  Some situations in the game require a great amount
+                of the processor speed. You can make these situations
+                less frequent by:
+
+               -Turning the Fire off ( MISCELLANEOUS|DETAILS &      
+                EFFECTS menu).
+                    (flammable things do not burn anymore)
+               -Turning the SnowFall off ( MISCELLANEOUS|DETAILS &  
+                EFFECTS menu).
+                    (no more snowfall)
+               -Turning the Birds off, or by killing them ( MISCELLA-
+                NEOUS|DETAILS & EFFECTS menu). 
+                    (no more birds, or feathers)
+               -Changing the graphics mode. The 320*200 mode will be
+                faster (especially in three or four player game), but
+                at least yours truly thinks the 320*400 mode is MUCH
+                better looking (press F5 or go to the MISCELLANEOUS|
+                DETAILS & EFFECTS menu).
+               -Removing the Old SpaceStation from your level selec-
+                tions (LEVELS menu).
+                    (this level explodes when there is too much     
+                     shooting, and the explosion does require a    
+                     really fast processor so as not to slow down the
+                     game)
+               -Not using these two special weapons: 
+                  Dividing Mine
+                    (usually if one player has this, it does not slow
+                     the game so much, but when multiple players have
+                     it, it can slow the game quite a lot)
+                  Grav-Mine, when snowfall is on.
+     
+     Problem:   When I am choosing my keys, the do not work!
+     Solution:  Quit the game, turn NumLock off, and try again.
+
+     Problem:   The keyboard is not responding!!!!!
+     Solution:  Change the control keys. This may differ from comput-
+                er to computer, but at least the default keys for 
+                players 1 and 3 have been known to cause trouble. Try
+                holding down the thrust and auxiliary weapon keys for
+                these players. This may cause trouble, and will let
+                you know if you need to alter the keys. This can be
+                done from the CONTROLS menu.
+
+     Problem:   I do not get the weapon that I chose from the WEAPONS
+                menu.
+     Solution:  You either chose wrong, and did not notice it, or you
+                have forgotten the option RANDOMIZE WEAPONS BEFORE  
+                LEVELS on, from the MISCELLANEOUS|RANDOMIZING menu.
+                Turn it off.
+
+     Problem:   I put that RANDOMIZE WEAPONS BEFORE LEVELS on, and
+                now I got a weapon about which I haven't the slight-
+                est idea of what it does, it seems to do nothing!!!
+     Solution:  Watch your energy bar (the white one). If it does not
+                drop, when you use your gun (and you are not in wa- 
+                ter) then it is either landmine, plastic explosives,
+                or the repair droid. (Read their descriptions.    
+                Besides, it is a good idea anyway.)
+
+     Problem:   The game has sounds, or so I hear. Not my game 
+                though. What gives?!?!
+     Solution:  Buy a GUS. If you already have one, then we cannot
+                help you.
+
+    
+     IX. Why Register
+     ----------------
+
+     You get much more out of the game, for example:
+        - 30 special weapons, 26 of which are not in the shareware
+          version.
+        - 10 levels, 8 of which are not in the shareware version.
+        - You don't need to watch the credits every time you quit the
+          game (just press ESC).
+        - You can alter gravity, ground collision damage, and all of
+          those cool other options ;).
+        - You can have awesome, feathered, flying birds!
+        - You get to control gun-turrets.
+
+     To register, send 50 FIM or $ 13 to:
+     Simo SiiriÑ, Kotikonnuntie 6 A 13 Fin 00940 Helsinki, Finland.
+     Make sure your name (the one you want to read from the main
+     menu) and your address are included.
+
+
+     X. Why Read Documents
+     ---------------------
+
+     Hmm.. that's a tough one ;-).
+
+     How about this: you get some idea of those weird weapons and of
+     the game in general. You could for example read the "Controls"
+     chapter and check out why your pilot took a dive just after he
+     landed.
+
+
+     XI. Creators' Comments
+     ----------------------
+
+     Hi there!
+        
+     The game has been thoroughly playtested, however, it might be,
+     that some weapons seem overpowered. So, pleeeease do not immedi-
+     ately start complaining that "Ghostship is unfair!" or something
+     like that. We know.
+
+     Please notice, that, if you don't like some weapon, or other   
+     thing or effect, you can turn it OFF or BAN it!!!
+
+
+           Simo SiiriÑ.
+    
+
+           siiria@rock.helsinki.fi
+
