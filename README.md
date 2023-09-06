@@ -1,3 +1,11 @@
+# IMPORTANT
+
+This repo is no longer active, instead I have moved to gitlab. Therefore I will no longer be updating this repository.
+
+To get the latest changes, go to: https://gitlab.com/Protofall/VWing-LEV-Converter
+
+-----------------------------------------
+
 # Protofall's VWing ".LEV" to PNG Converter
 
 This program will take a ".LEV" file made with the MS-DOS game VWing's level converter and converts it into a Png. The levels are actually 256-colour palette, 640 by 800 pcx files, except the 128-byte header has different content. Because pcx files aren't really supported by modern OSes anymore, I decided to convert them to PNGs instead. I've also included the original MS-DOS game in this repo since its a bit hard to find and it is shareware.
